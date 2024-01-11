@@ -7,17 +7,17 @@ import ClientSideProvider from './clientSideProvider';
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
-      <head>
+      {/* <head>
         <link
           href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css"
           rel="stylesheet"
         />
-      </head>
+      </head> */}
       <body id={'root'}>
         <ClientSideProvider>
           <AppWrappers>{children}</AppWrappers>
         </ClientSideProvider>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>
+        {/* <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script> */}
       </body>
     </html>
   );
