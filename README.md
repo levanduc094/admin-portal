@@ -71,8 +71,8 @@ If you want to get inspiration or just show something directly to your clients, 
 
 ### Versions
 
-| Free Version                                                                                                                                         | PRO Version                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Free Version                                                                                                                                         | PRO Version                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Horizon UI Tailwind NextJS](https://i.ibb.co/mtLkcYL/horizon-ui-nextjs-free.png)](https://www.horizon-ui.com/?ref=readme-horizon-tailwind-nextjs) | [![Horizon UI NextJS PRO](https://i.ibb.co/sPSYxGv/horizon-2-0-pro-presentation-image.png)](https://www.horizon-ui.com/pro?ref=readme-horizon-tailwind-nextjs) |
 
 ### Figma Version
